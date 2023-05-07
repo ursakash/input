@@ -1,0 +1,2 @@
+# input
+c language codding
